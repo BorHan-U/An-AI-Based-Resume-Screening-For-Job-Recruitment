@@ -44,18 +44,18 @@ As of now, in this project, ten employment area has been covered but it is plann
 
 *PROJECT CERTIFICATION:*
 
--Won Bronze Award at IIUM's KICT Final Year Project Showcase, 2021/2022 session-
+--Won Bronze Award at IIUM's KICT Final Year Project Showcase, 2021/2022 session-
 
 <img width="854" alt="Screenshot 2023-11-14 at 9 11 41 PM" src="https://github.com/BorHan-U/An-AI-Based-Resume-Screening-For-Job-Recruitment/assets/55747898/01fa7193-ab45-404a-b52e-ebe04d0a5b30">
 
 
--Won a Silver award in the category of Artificial Intelligence Applications at the international final year project competition - MIIT-
+--Won a Silver award in the category of Artificial Intelligence Applications at the international final year project competition - MIIT-
 
 <img width="364" alt="Screenshot 2023-11-14 at 9 12 49 PM" src="https://github.com/BorHan-U/An-AI-Based-Resume-Screening-For-Job-Recruitment/assets/55747898/775123e8-6e68-4766-b3db-a850c20ff63c">
 
 
 
--The project is written fully as a research paper. If any hesitation, feel free to contact me through Info@uddinborhan.com-
+         -The project is written fully as a research paper. If any hesitation, feel free to contact me through *Info@uddinborhan.com*-
 
 
 
