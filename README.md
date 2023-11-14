@@ -41,6 +41,18 @@ The selection of skilled employees is become an intimidating task for human reso
 
 As of now, in this project, ten employment area has been covered but it is planned that features will be added to make the model more generalized screening model to check all kinds of recruitment in the future.
 
+
+*AWARD WON:*
+
+-Bronze Award at IIUM's KICT Final Year Project Showcase, 2021/2022 session-
+[Bronze Award (Academic Final Year Project).pdf](https://github.com/BorHan-U/An-AI-Based-Resume-Screening-For-Job-Recruitment/files/13355620/Bronze.Award.Academic.Final.Year.Project.pdf)
+
+
+-Won a Silver award in the category of Artificial Intelligence Applications at the international final year project competition - MIIT-
+[MIIT Competition -SIlver Award (ID - DA00015).pdf](https://github.com/BorHan-U/An-AI-Based-Resume-Screening-For-Job-Recruitment/files/13355624/MIIT.Competition.-SIlver.Award.ID.-.DA00015.pdf)
+
+
+
 -The project is written fully as a research paper. If any hesitation, feel free to contact me through Info@uddinborhan.com-
 
 
