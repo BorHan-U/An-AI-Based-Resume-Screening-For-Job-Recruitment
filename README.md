@@ -55,7 +55,7 @@ As of now, in this project, ten employment area has been covered but it is plann
 
 
 
-         -The project is written fully as a research paper. If any hesitation, feel free to contact me through *Info@uddinborhan.com*-
+  - The project is written fully as a research paper. If any hesitation, feel free to contact me through *Info@uddinborhan.com* -
 
 
 
