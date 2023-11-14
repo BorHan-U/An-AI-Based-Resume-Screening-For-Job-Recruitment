@@ -42,7 +42,7 @@ The selection of skilled employees is become an intimidating task for human reso
 As of now, in this project, ten employment area has been covered but it is planned that features will be added to make the model more generalized screening model to check all kinds of recruitment in the future.
 
 
-*PROJECT CERTIFICATION:*
+===================================================*PROJECT CERTIFICATION:*===========================================================
 
 --Won Bronze Award at IIUM's KICT Final Year Project Showcase, 2021/2022 session-
 
