@@ -12,12 +12,12 @@ The selection of skilled employees is become an intimidating task for human reso
 2. To develop an AI technique to filter the resume that will more fitted techniques over human recruiters.  
 3. To identify the proper talent acquisition through screening technique and suggest the resumes that matched the content.
 
-*Methodology:*
+*METHODOLOGY:*
 
 <img width="437" alt="image" src="https://github.com/BorHan-U/An-AI-Based-Resume-Screening-For-Job-Recruitment/assets/55747898/fb07c49f-fd3c-4907-9aa8-d4deb5b9362d">
 
 
-*Experimental setUp:*
+*EXPERIMENTAL SETUP:*
 
 <img width="443" alt="image" src="https://github.com/BorHan-U/An-AI-Based-Resume-Screening-For-Job-Recruitment/assets/55747898/6867b752-a604-408a-a026-2af045094ebf">
 
@@ -27,13 +27,13 @@ The selection of skilled employees is become an intimidating task for human reso
 <img width="401" alt="image" src="https://github.com/BorHan-U/An-AI-Based-Resume-Screening-For-Job-Recruitment/assets/55747898/2fa2196a-f8ef-430e-9d74-52882e42f2ce">
 
 
-*Score Compution:*
+*SCORE COMPUTATION:*
 
 
 <img width="381" alt="image" src="https://github.com/BorHan-U/An-AI-Based-Resume-Screening-For-Job-Recruitment/assets/55747898/b8d6b6c5-ef1e-4e3d-900f-43a5d5977cd5">
 
 
-*Demo Result and visualization*
+*DEMO RESULT AND VISUALISATION*
 
 <img width="482" alt="Screenshot 2023-11-14 at 1 34 46 PM" src="https://github.com/BorHan-U/An-AI-Based-Resume-Screening-For-Job-Recruitment/assets/55747898/0f300afe-7bd5-4fac-a403-d0eb02ed8ff2">
 
@@ -41,7 +41,7 @@ The selection of skilled employees is become an intimidating task for human reso
 
 As of now, in this project, ten employment area has been covered but it is planned that features will be added to make the model more generalized screening model to check all kinds of recruitment in the future.
 
--The project is written fully as a research paper, if any hesitation feel free to contact me through Info@uddinborhan.com-
+-The project is written fully as a research paper. If any hesitation, feel free to contact me through Info@uddinborhan.com-
 
 
 
