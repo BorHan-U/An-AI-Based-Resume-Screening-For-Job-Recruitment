@@ -54,8 +54,7 @@ As of now, in this project, ten employment area has been covered but it is plann
 <img width="364" alt="Screenshot 2023-11-14 at 9 12 49 PM" src="https://github.com/BorHan-U/An-AI-Based-Resume-Screening-For-Job-Recruitment/assets/55747898/775123e8-6e68-4766-b3db-a850c20ff63c">
 
 
-
-  - The project is written fully as a research paper. If any hesitation, feel free to contact me through *Info@uddinborhan.com* -
+-The project is written fully as a research paper. If any hesitation, feel free to contact me through *Info@uddinborhan.com*
 
 
 
