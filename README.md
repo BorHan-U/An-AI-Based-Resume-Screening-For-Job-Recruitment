@@ -6,7 +6,7 @@
 
 The selection of skilled employees is become an intimidating task for human resource management and any other job openings recruitment because a job opening has more than thousands of applicants during a recruitment period. It becomes an incredibly challenging job to check all resumes for every applicant. To solve this, a resume screening technology of artificial intelligence may take place. The use of a natural language processing and text mining as resume screening technology could ease this daunting task of the recruitment process. Applicants’ resumes will be read by the machine instead of human recruiter teams and the model would work to classify the resume based on the organization’s requirements. The model will search the pre-defined keyword similarity throughout the resume and a score will be given based on keyword match between resume and system, and a clear visualization will be done by decomposing the applicant’s resume according to requirement matched. Through this, the model will show the total score earned by each resume as well as the individual score earned by each area. As a result, recruiters may take the decision about the right talent acquisition by looking into the result.
 
-*PROJECT OBJECTIV:*
+*PROJECT OBJECTIVE:*
 
 1. To study on the existing traditional recruitment process of resume checking and identify its limitations.  
 2. To develop an AI technique to filter the resume that will more fitted techniques over human recruiters.  
